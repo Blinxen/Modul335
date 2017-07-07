@@ -1,0 +1,74 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">RecyclerViewOptionMenu</string>
+    <string name="kontrolleure_melden">Kontrolleure melden</string>
+    <string name="textview">TextView</string>
+    <string name="melden">melden</string>
+    <string name="kommentar">Kommentar</string>
+    <string name="richtung">Richtung</string>
+    <string name="zug">Zug</string>
+    <string name="bewertung">Bewertung</string>
+    <string name="Richtung">Richtung</string>
+    <string name="Zug">Zug</string>
+    <string name="Kommentar">Kommentar</string>
+    <string-array name="zugN">
+        <item>S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+        <item>S6</item>
+        <item>S7</item>
+        <item>S8</item>
+        <item>S9</item>
+        <item>S10</item>
+        <item>S11</item>
+        <item>S12</item>
+        <item>S13</item>
+        <item>S14</item>
+        <item>S15</item>
+        <item>S16</item>
+        <item>S18</item>
+        <item>S19</item>
+        <item>S24</item>
+        <item>S25</item>
+        <item>S26</item>
+        <item>S42</item>
+    </string-array>
+    <string-array name="richtung">
+        <item>Zürich HB</item>
+        <item>Aarau</item>
+        <item>Affoltern am Albis</item>
+        <item>Baden</item>
+        <item>Brugg AG</item>
+        <item>Dietikon</item>
+        <item>Einsiedeln</item>
+        <item>Effretikon</item>
+        <item>Esslingen</item>
+        <item>Flughafen</item>
+        <item>Herblingen</item>
+        <item>Herrliberg-Feldmeilen</item>
+        <item>Hinwil</item>
+        <item>Koblenz</item>
+        <item>Linthal</item>
+        <item>Muri AG</item>
+        <item>Niederweningen</item>
+        <item>Oberwinterthur</item>
+        <item>Pfäffikon SZ</item>
+        <item>Rafz</item>
+        <item>Rapperswil</item>
+        <item>Rüti ZH</item>
+        <item>Seuzach</item>
+        <item>Schaffhausen</item>
+        <item>Schwanden</item>
+        <item>Sihlwald</item>
+        <item>Uetikon</item>
+        <item>Uetliberg</item>
+        <item>Uster</item>
+        <item>Weinfelden</item>
+        <item>Wetzikon</item>
+        <item>Winterthur</item>
+        <item>Winterthur Seen</item>
+        <item>Ziegelbrücke</item>
+        <item>Zug</item>
+    </string-array>
+
+</resources>
